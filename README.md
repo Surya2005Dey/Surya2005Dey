@@ -1,8 +1,15 @@
+<h1 align="center">Hi 👋, I'm Surya DEY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya2005dey&label=Profile%20views&color=0e75b6&style=flat" alt="surya2005dey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya2005dey" alt="surya2005dey" /></a> </p>
+
+- 🌱 I’m currently learning **React,next.js,MongoDB**
+
+- 💬 Ask me about **React,C language,Nextjs, python**
+
+- 📫 How to reach me **deysurya600@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
